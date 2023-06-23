@@ -1,7 +1,7 @@
 {
   "currencies": [
     {
-      "currency_code": "ARS",
+      "currency_code": "ARSS",
       "currency_name": "Argentine Peso",
       "providers": [
         "transak"
